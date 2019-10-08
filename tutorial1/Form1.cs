@@ -19,9 +19,6 @@ namespace tutorial1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            BackColor = Color.Black;
-            TransparencyKey = Color.Black;
-            chages
         }
     }
 }
